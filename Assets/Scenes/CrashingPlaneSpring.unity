@@ -827,6 +827,7 @@ MonoBehaviour:
   _spawnAtBegining: 1
   _useRandomPrefab: 1
   _prefabs:
+  - {fileID: 2441028125726398853, guid: 073759e2a11018e45b423c206061e8de, type: 3}
   - {fileID: 5159174393068658102, guid: ad8ef54bfd8049d4897b25e7ec388cca, type: 3}
   - {fileID: 2441028125726398853, guid: 5642e6fa2b16b3f4ca9300a14e245155, type: 3}
 --- !u!4 &1846705571
